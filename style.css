@@ -57,7 +57,7 @@ tr {
 th {
     width: 33.333%;
     padding: 5px;
-    background-color: black;
+    background-color: #34495E;
     color: white;
 }
 
@@ -70,8 +70,8 @@ td {
 .table table{
     width: 100%;
     
-border-top: 1px solid black;
-border-bottom: 1px solid black;
+border-top: 1px solid #34495E;
+border-bottom: 1px solid #34495E;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -123,7 +123,7 @@ input[type=number] {
 }
 
 .dark-green {
-    background-color: #57bb8a;
+    background-color: #6A9174;
 
 }
 
@@ -137,7 +137,7 @@ input[type=number] {
 .title {
     text-align: center;
     font-size: 25px;
-    background: black;
+    background: #34495E;
     color: white;
     margin-bottom: 7px;
 }
