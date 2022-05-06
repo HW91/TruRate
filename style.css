@@ -12,7 +12,7 @@ body {
 
 
 .container {
-    border: 1px solid black;
+    border: 0px solid white;
     max-width: 700px;
     margin: 20px auto;
    overflow: scroll;
@@ -24,7 +24,7 @@ body {
 .title {
     text-align: center;
     font-size: 25px;
-    background: black;
+    background: #34495E;
     color: white;
     margin-bottom: 7px;
 }
